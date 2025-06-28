@@ -1,6 +1,6 @@
-fastapi==0.111.0
-uvicorn==0.30.1
-starkbank==2.20.0
-apscheduler==3.10.4
-python-dotenv==1.0.1
+fastapi
+uvicorn
+starkbank
+apscheduler
+python-dotenv
 faker
