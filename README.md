@@ -27,7 +27,10 @@ starkbank-webhook/
 │   ├── main.py               # Inicializa a API
 │   ├── webhook_handler.py    # Processamento de webhooks
 │   └── scheduler.py          # Agendador de tarefas
-│
+├── tests/                    # testes unitarios
+|   ├── test_invoiceGenerator.py  
+|   ├── test_scheduler.py
+|   ├── test_Webhook_handler.py
 ├── requirements.txt          # Dependências
 ├── Dockerfile                # Configuração da imagem Docker
 ├── .env                      # Variáveis de ambiente
