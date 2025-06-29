@@ -49,3 +49,4 @@ def emitir_invoices():
     criadas = starkbank.invoice.create(invoices, user=user)
     for i in criadas:
         print(f"- {i.name} | {i.tax_id} | R${i.amount/100:.2f}")
+    return criadas
