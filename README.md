@@ -151,7 +151,7 @@ STARKBANK_PRIVATE_KEY_PATH=./private-key.pem
 ## 👤 Autor
 
 **Lucas Fernando**  
-🔗 [LinkedIn](https://www.linkedin.com/in/lucasxfernando/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/lucas-santos-bi/)  
 💼 Banco Pan • Integrações, APIs, Antifraude, Pagamentos
 
 ---
