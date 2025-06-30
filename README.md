@@ -44,7 +44,7 @@ starkbank-webhook/
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/starkbank-webhook.git
+gh repo clone lucasfs07/Stark-Bank-Fast-Api
 cd starkbank-webhook
 ```
 
